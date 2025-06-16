@@ -112,9 +112,4 @@ python bot.py
 
 ###
 <!-- This is a good place for your name or GitHub handle! -->
-### 👤 Author
-
-**[Your Name]**
-*   GitHub: [@your-username](https://github.com/your-username)
-*   LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 <!-- End customization -->
